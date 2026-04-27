@@ -32,7 +32,7 @@ newssummarizer/
 │   └── style.css
 ⚙️ Installation
 1. Clone the repository
-git clone https://github.com/shikhargyhub/news-summarizer.git
+git clone https://github.com/shikhargthub/Ai-news-summarizer
 cd news-summarizer
 2. Create virtual environment
 python -m venv .venv
